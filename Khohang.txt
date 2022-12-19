@@ -1,0 +1,18 @@
+thit ga / 1995 / 100000 ///
+thit lon / 1997 / 87000 ///
+thit bo / 1499 / 115000 ///
+ca vien chien / 1800 / 32000 ///
+ca hop 3 co gai / 2998 / 14000 ///
+xuc xich / 1995 / 4000 ///
+sua chua / 1997 / 5000 ///
+sua tuoi / 2999 / 8000 ///
+mi an lien / 2996 / 4500 ///
+nuoc mam / 2000 / 24000 ///
+nuoc tuong / 2000 / 26000 ///
+dau an / 2000 / 43000 ///
+kem / 2999 / 15000 ///
+banh bong lan / 1997 / 32000 ///
+keo cao su / 1495 / 10000 ///
+nuoc ngot cocacola / 198 / 10000 ///
+nuoc ngot sting / 295 / 10000 ///
+bo huc / 243 / 15000 ///
