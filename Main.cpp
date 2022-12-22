@@ -11,7 +11,6 @@ int main()
 {
 //	system("color 20");
 	menu(luachon, 6);
-	system("pause");
 	return 0;
 /*	HoaDon z;
 //	int k;

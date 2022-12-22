@@ -1,0 +1,1909 @@
+Ma hoa don: 1
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 15:15:23
+-------------------HoaDon cua khach hang: KH001----------------------
+2:         thit ga              1         100000
+Tong tien:                                100000
+Tien khach gui:                           300000
+So tien tra lai:                          200000
+------------------------------------------------------------------------------------------
+Ma hoa don: 1
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 15:19:12
+-------------------HoaDon cua khach hang: KH001----------------------
+2:        xuc xich             15          60000
+Tong tien:                                260000
+Tien khach gui:                           300000
+So tien tra lai:                           40000
+------------------------------------------------------------------------------------------
+Ma hoa don: 1
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 15:42:45
+-------------------HoaDon cua khach hang: KH002----------------------
+1:         thit ga              2         200000
+Tong tien:                                200000
+Tien khach gui:                           300000
+So tien tra lai:                          100000
+------------------------------------------------------------------------------------------
+Ma hoa don: 1
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 15:43:23
+-------------------HoaDon cua khach hang: KH003----------------------
+1:         thit ga              2         200000
+1:        xuc xich             20          80000
+Tong tien:                                280000
+Tien khach gui:                           400000
+So tien tra lai:                          120000
+------------------------------------------------------------------------------------------
+Ma hoa don: 1
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 15:45:34
+-------------------HoaDon cua khach hang: kh005----------------------
+1:        xuc xich             30         120000
+Tong tien:                                120000
+Tien khach gui:                           400000
+So tien tra lai:                          280000
+------------------------------------------------------------------------------------------
+Ma hoa don: 1
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 15:50:12
+-------------------HoaDon cua khach hang: KH006----------------------
+2:         thit ga              2         200000
+3:        xuc xich             10          40000
+Tong tien:                                240000
+Tien khach gui:                           300000
+So tien tra lai:                           60000
+------------------------------------------------------------------------------------------
+Ma hoa don: 1
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 15:59:23
+-------------------HoaDon cua khach hang: KH006----------------------
+6:         thit ga              2         200000
+6:        xuc xich             10          40000
+Tong tien:                                240000
+Tien khach gui:                           300000
+So tien tra lai:                           60000
+------------------------------------------------------------------------------------------
+Ma hoa don: 1
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 16:04:26
+-------------------HoaDon cua khach hang: KH005----------------------
+6:         thit ga              2         200000
+6:        xuc xich             15          60000
+Tong tien:                                260000
+Tien khach gui:                           300000
+So tien tra lai:                           40000
+------------------------------------------------------------------------------------------
+Ma hoa don: 1
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 22:02:34
+-------------------HoaDon cua khach hang: KH005----------------------
+4:         thit ga              3         300000
+Tong tien:                                300000
+Tien khach gui:                           400000
+So tien tra lai:                          100000
+------------------------------------------------------------------------------------------
+Ma hoa don: 1
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 10:07
+-------------------HoaDon cua khach hang: KH006----------------------
+0:         thit ga              2         200000
+0:        xuc xich             15          60000
+Tong tien:                                260000
+Tien khach gui:                           300000
+So tien tra lai:                           40000
+------------------------------------------------------------------------------------------
+Ma hoa don: 1
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 22:08:12
+-------------------HoaDon cua khach hang: KH010----------------------
+1:         thit ga              1         100000
+2:        xuc xich             16          64000
+Tong tien:                                164000
+Tien khach gui:                           300000
+So tien tra lai:                          136000
+------------------------------------------------------------------------------------------
+Ma hoa don: 1
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 22:23:12
+-------------------HoaDon cua khach hang: KH002----------------------
+1:         thit ga              2         200000
+2:        xuc xich             20          80000
+Tong tien:                                280000
+Tien khach gui:                           300000
+So tien tra lai:                           20000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 22:29:12
+-------------------HoaDon cua khach hang: KH003----------------------
+3:         thit ga              2         200000
+3:        xuc xich             15          60000
+Tong tien:                                260000
+Tien khach gui:                           300000
+So tien tra lai:                           40000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 16/12/2022 luc: 22:32:43
+-------------------HoaDon cua khach hang: KH003----------------------
+3:        xuc xich             20          80000
+Tong tien:                                 80000
+Tien khach gui:                           300000
+So tien tra lai:                          220000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 00/00/00 luc: 00:00:00
+-------------------HoaDon cua khach hang: KH002----------------------
+2:         thit ga              2         200000
+2:        xuc xich             10          40000
+Tong tien:                                240000
+Tien khach gui:                           300000
+So tien tra lai:                           60000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 00/00/00 luc: 00:00:00
+-------------------HoaDon cua khach hang: KH004----------------------
+1:        xuc xich             12          48000
+Tong tien:                                 48000
+Tien khach gui:                           300000
+So tien tra lai:                          252000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 00/00/00 luc: 00:00:00
+-------------------HoaDon cua khach hang: KH001----------------------
+1:         thit ga              2         200000
+Tong tien:                                200000
+Tien khach gui:                           300000
+So tien tra lai:                          100000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 00/00/00 luc: 00:00:00
+-------------------HoaDon cua khach hang: KH002----------------------
+5:        xuc xich             24          96000
+Tong tien:                                 96000
+Tien khach gui:                           300000
+So tien tra lai:                          204000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 00/00/00 luc: 00:00:00
+-------------------HoaDon cua khach hang: KH001----------------------
+3:        xuc xich             27         108000
+Tong tien:                                108000
+Tien khach gui:                           300000
+So tien tra lai:                          192000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 00/00/00 luc: 00:00:00
+-------------------HoaDon cua khach hang: KH001----------------------
+22:         thit ga              2         200000
+22:          bo huc              2          30000
+22:   banh bong lan              3          96000
+22: nuoc ngot sting              2          20000
+Tong tien:                                346000
+Tien khach gui:                          1000000
+So tien tra lai:                          654000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 00/00/00 luc: 00:00:00
+-------------------HoaDon cua khach hang: KH0001----------------------
+1: ca hop 3 co gai              2          28000
+Tong tien:                                 28000
+Tien khach gui:                           300000
+So tien tra lai:                          272000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 19/12/2022 luc: 12:29:18
+-------------------HoaDon cua khach hang: KH001----------------------
+1: nuoc ngot cocacola              2          20000
+Tong tien:                                 20000
+Tien khach gui:                           300000
+So tien tra lai:                          280000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 19/12/2022 luc: 12:37:11
+-------------------HoaDon cua khach hang: KH002----------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+2:          bo huc              1          15000
+2:      keo cao su              2          20000
+Tong tien:                                 35000
+Tien khach gui:                           300000
+So tien tra lai:                          265000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+SIEU THI BINH DUONG                	 D/c: Doc la Binh Duong
+Xuat ngay: 19/12/2022 luc: 12:39:47
+-------------------HoaDon cua khach hang: KH003----------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+1:         thit ga              3         300000
+Tong tien:                                300000
+Tien khach gui:                           500000
+So tien tra lai:                          200000
+------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                   Lien Chieu, TP Da Nang
+Xuat ngay: 19/12/2022 luc: 13:2:23
+------------------------------HoaDon cua khach hang: KH004-------------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+1: nuoc ngot sting              2          20000
+Tong tien:                                         20000
+Tien khach gui:                                   300000
+So tien tra lai:                                  280000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                   Lien Chieu, TP Da Nang
+Xuat ngay: 19/12/2022 luc: 13:11:4
+------------------------------HoaDon cua khach hang: KH001-------------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      2    |            thit lon  |              2      |         174000         |
+|      2    |            xuc xich  |              2      |           8000         |
+Tong tien:                                        182000
+Tien khach gui:                                   300000
+So tien tra lai:                                  118000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                   Lien Chieu, TP Da Nang
+Xuat ngay: 19/12/2022 luc: 13:15:5
+------------------------------HoaDon cua khach hang: KH0001-------------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      5    |            sua chua  |              2      |          10000         |
+|      5    |            xuc xich  |              2      |           8000         |
+|      5    |          keo cao su  |              1      |          10000         |
+|      5    |              bo huc  |              1      |          15000         |
+|      5    |          mi an lien  |              1      |           4500         |
+Tong tien:                                         47500
+Tien khach gui:                                   200000
+So tien tra lai:                                  152500
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                   Lien Chieu, TP Da Nang
+Xuat ngay: 19/12/2022 luc: 13:19:52
+---------------------------HoaDon cua khach hang: KH004---------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              1      |         115000         |
+|      2    |          keo cao su  |              1      |          10000         |
+Tong tien:                                        125000
+Tien khach gui:                                   200000
+So tien tra lai:                                   75000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                   Lien Chieu, TP Da Nang
+Xuat ngay: 19/12/2022 luc: 13:23:10
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          mi an lien  |              1      |           4500         |
+|      2    |              bo huc  |              1      |          15000         |
+|      3    |     nuoc ngot sting  |              1      |          10000         |
+Tong tien:                                         29500
+Tien khach gui:                                   300000
+So tien tra lai:                                  270500
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                   Lien Chieu, TP Da Nang
+Xuat ngay: 19/12/2022 luc: 15:8:44
+---------------------------HoaDon cua khach hang: KH005----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            sua chua  |              1      |           5000         |
+|      2    |                 kem  |              1      |          15000         |
+|      3    |          mi an lien  |              1      |           4500         |
+Tong tien:                                                   24500
+Tien khach gui:                                             300000
+So tien tra lai:                                            275500
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                   Lien Chieu, TP Da Nang
+Xuat ngay: 19/12/2022 luc: 15:11:51
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              1      |          10000         |
+|      2    |            xuc xich  |              1      |           4000         |
+|      3    |            sua tuoi  |              1      |           8000         |
+Tong tien:                                                          22000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   278000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 19/12/2022 luc: 15:25:26
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            thit lon  |              1      |          87000         |
+|      2    |          mi an lien  |              1      |           4500         |
+Tong tien:                                                          91500
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   208500
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 20/12/2022 luc: 22:37:34
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          mi an lien  |              2      |           9000         |
+Tong tien:                                                           9000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                   191000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 20/12/2022 luc: 22:38:39
+---------------------------HoaDon cua khach hang: KH0002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              1      |         115000         |
+Tong tien:                                                         115000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   185000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 20/12/2022 luc: 22:39:2
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              1      |         115000         |
+|      2    |     nuoc ngot sting  |              1      |          10000         |
+Tong tien:                                                         125000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                    75000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 3
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 20/12/2022 luc: 22:40:38
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              1      |         115000         |
+|      2    |     nuoc ngot sting  |              1      |          10000         |
+Tong tien:                                                         125000
+Tien khach gui:                                                     30000
+So tien tra lai:                                                   -95000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 20/12/2022 luc: 22:42:6
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            sua chua  |              1      |           5000         |
+Tong tien:                                                           5000
+Tien khach gui:                                                     30000
+So tien tra lai:                                                    25000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 20/12/2022 luc: 22:50:21
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              1      |          10000         |
+Tong tien:                                                          10000
+Tien khach gui:                                                     30000
+So tien tra lai:                                                    20000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 20/12/2022 luc: 22:52:9
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              1      |          10000         |
+Tong tien:                                                          10000
+Tien khach gui:                                                     30000
+So tien tra lai:                                                    20000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 20/12/2022 luc: 22:52:25
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              2      |          20000         |
+Tong tien:                                                          10000
+Tien khach gui:                                                     10000
+So tien tra lai:                                                        0
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 0:21:19
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            nuoc mam  |              1      |          24000         |
+Tong tien:                                                          24000
+Tien khach gui:                                                     30000
+So tien tra lai:                                                     6000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 0:21:59
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            nuoc mam  |              1      |          24000         |
+|      2    |            thit lon  |              1      |          87000         |
+|      3    |              bo huc  |              1      |          15000         |
+Tong tien:                                                         102000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                    98000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 3
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 0:22:57
+---------------------------HoaDon cua khach hang: KH003----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            nuoc mam  |              1      |          24000         |
+|      2    |            thit lon  |              1      |          87000         |
+|      3    |              bo huc  |              1      |          15000         |
+|      4    |     nuoc ngot sting  |              1      |          10000         |
+Tong tien:                                                          10000
+Tien khach gui:                                                    400000
+So tien tra lai:                                                   390000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 0:25:2
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            nuoc mam  |              1      |          24000         |
+|      2    |          nuoc tuong  |              1      |          26000         |
+Tong tien:                                                          50000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                   150000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 0:25:31
+---------------------------HoaDon cua khach hang: KH004----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              1      |         100000         |
+|      2    |              bo huc  |              1      |          15000         |
+Tong tien:                                                         115000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   185000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 3
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 0:26:28
+---------------------------HoaDon cua khach hang: KH005----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |       banh bong lan  |              1      |          32000         |
+|      2    |          keo cao su  |              1      |          10000         |
+|      3    |              dau an  |              1      |          43000         |
+|      4    |              bo huc  |              1      |          15000         |
+Tong tien:                                                         100000
+Tien khach gui:                                                    400000
+So tien tra lai:                                                   300000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 0:32:26
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |              bo huc  |              1      |          15000         |
+Tong tien:                                                          15000
+Tien khach gui:                                                    100000
+So tien tra lai:                                                    85000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 1:17:46
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |           8000         |
+Tong tien:                                                           8000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                   192000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 1:18:19
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |           8000         |
+|      2    |          keo cao su  |              1      |          10000         |
+Tong tien:                                                          10000
+Tien khach gui:                                                     20000
+So tien tra lai:                                                    10000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 1:28:9
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              1      |          10000         |
+Tong tien:                                                          10000
+Tien khach gui:                                                     20000
+So tien tra lai:                                                    10000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 1:28:28
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              3      |          12000         |
+Tong tien:                                                          12000
+Tien khach gui:                                                     40000
+So tien tra lai:                                                    28000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 1:33:41
+---------------------------HoaDon cua khach hang: KH00`----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              1      |           4000         |
+Tong tien:                                                           4000
+Tien khach gui:                                                     20000
+So tien tra lai:                                                    16000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 1:34:54
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |              bo huc  |              1      |          15000         |
+Tong tien:                                                          15000
+Tien khach gui:                                                     20000
+So tien tra lai:                                                     5000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 1:39:54
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |           8000         |
+|      2    |          keo cao su  |              2      |          20000         |
+Tong tien:                                                          28000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                   172000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 1:40:18
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |           8000         |
+|      2    |          keo cao su  |              2      |          20000         |
+Tong tien:                                                          28000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   272000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 1:42:35
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |           8000         |
+|      2    |          keo cao su  |              3      |          30000         |
+Tong tien:                                                          38000
+Tien khach gui:                                                    220000
+So tien tra lai:                                                   182000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 1:42:55
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              1      |         115000         |
+|      2    |              bo huc  |              2      |          30000         |
+Tong tien:                                                         145000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   155000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 1:45:48
+---------------------------HoaDon cua khach hang: Kh001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              1      |         100000         |
+|      2    |            xuc xich  |              2      |           8000         |
+Tong tien:                                                         108000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                    92000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 1:46:12
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            sua chua  |              2      |          10000         |
+|      2    |          keo cao su  |              4      |          40000         |
+Tong tien:                                                          50000
+Tien khach gui:                                                   3000000
+So tien tra lai:                                                  2950000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 0/0/0 luc: 0:0:0
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              1      |         115000         |
+|      2    |              bo huc  |              1      |          15000         |
+Tong tien:                                                         130000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   170000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 0/0/0 luc: 0:0:0
+---------------------------HoaDon cua khach hang: KH003----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |     ca hop 3 co gai  |              1      |          14000         |
+|      2    |            nuoc mam  |              1      |          24000         |
+Tong tien:                                                          38000
+Tien khach gui:                                                    400000
+So tien tra lai:                                                   362000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 0/0/0 luc: 0:0:0
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              1      |         115000         |
+|      2    |          keo cao su  |              1      |          10000         |
+Tong tien:                                                         125000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   175000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 0/0/0 luc: 0:0:0
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |              bo huc  |              1      |          15000         |
+|      2    |            thit lon  |              1      |          87000         |
+|      3    |             thit bo  |              1      |         115000         |
+Tong tien:                                                         217000
+Tien khach gui:                                                    400000
+So tien tra lai:                                                   183000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:11:45
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              1      |         100000         |
+|      2    |              bo huc  |              1      |          15000         |
+Tong tien:                                                         115000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   185000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:12:47
+---------------------------HoaDon cua khach hang: KH003----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |     nuoc ngot sting  |              1      |          10000         |
+|      2    |            xuc xich  |              1      |           4000         |
+|      3    |              bo huc  |              1      |          15000         |
+Tong tien:                                                          29000
+Tien khach gui:                                                     30000
+So tien tra lai:                                                     1000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 1
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:18:14
+---------------------------HoaDon cua khach hang: Kh001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              1      |         100000         |
+Tong tien:                                                         100000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                   100000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:18:27
+---------------------------HoaDon cua khach hang: Kh002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              1      |          10000         |
+Tong tien:                                                          10000
+Tien khach gui:                                                     20000
+So tien tra lai:                                                    10000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 3
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:19:9
+---------------------------HoaDon cua khach hang: KH003----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              1      |          10000         |
+|      2    |            xuc xich  |              4      |          16000         |
+|      3    |             thit bo  |              1      |         115000         |
+Tong tien:                                                         141000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   159000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 2
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:27:15
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |           8000         |
+|      2    |             thit ga  |              1      |         100000         |
+Tong tien:                                                         108000
+Tien khach gui:                                                   2000000
+So tien tra lai:                                                  1892000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: 4
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:27:40
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              1      |          10000         |
+|      2    |            sua chua  |              3      |          15000         |
+Tong tien:                                                          25000
+Tien khach gui:                                                    100000
+So tien tra lai:                                                    75000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:34:44
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              1      |           4000         |
+|      2    |            sua chua  |              1      |           5000         |
+Tong tien:                                                           9000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                   191000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:35:16
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              1      |         100000         |
+|      2    |            xuc xich  |              2      |           8000         |
+Tong tien:                                                         108000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                    92000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:48:39
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              1      |           4000         |
+|      2    |            sua chua  |              2      |          10000         |
+Tong tien:                                                          14000
+Tien khach gui:                                                    400000
+So tien tra lai:                                                   386000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:49:5
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              1      |          10000         |
+|      2    |            sua chua  |              1      |           5000         |
+Tong tien:                                                          15000
+Tien khach gui:                                                     19999
+So tien tra lai:                                                     4999
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:51:46
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              1      |           4000         |
+|      2    |            sua chua  |              1      |           5000         |
+Tong tien:                                                           9000
+Tien khach gui:                                                     40000
+So tien tra lai:                                                    31000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 2:52:10
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              1      |         100000         |
+|      2    |            xuc xich  |              1      |           4000         |
+Tong tien:                                                         104000
+Tien khach gui:                                                    120000
+So tien tra lai:                                                    16000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 15:5:58
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              3      |          12000         |
+Tong tien:                                                          12000
+Tien khach gui:                                                     50000
+So tien tra lai:                                                    38000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 15:9:10
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |              bo huc  |              1      |          15000         |
+|      2    |          keo cao su  |              1      |          10000         |
+Tong tien:                                                          25000
+Tien khach gui:                                                     30000
+So tien tra lai:                                                     5000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 21:48:53
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            thit lon  |              1      |          90000         |
+|      2    |       banh bong lan  |              1      |          35000         |
+Tong tien:                                                         125000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   175000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 21:58:9
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              1      |         130000         |
+|      2    |          keo cao su  |              1      |          11000         |
+Tong tien:                                                         141000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                    59000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 22:2:4
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              1      |         130000         |
+|      2    |              bo huc  |              1      |          18000         |
+|      3    |          keo cao su  |              1      |          11000         |
+Tong tien:                                                         159000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   141000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 22:7:49
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              1      |         120000         |
+|      2    |  nuoc ngot cocacola  |              1      |          10500         |
+|      3    |          keo cao su  |              1      |          11000         |
+Tong tien:                                                         141500
+Tien khach gui:                                                    200000
+So tien tra lai:                                                    58500
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 22:9:1
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            thit lon  |              1      |          90000         |
+|      2    |              bo huc  |              1      |          18000         |
+Tong tien:                                                         108000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   192000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: KH003
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 22:14:8
+---------------------------HoaDon cua khach hang: KH003----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |             15      |          79500         |
+|      2    |            nuoc mam  |              1      |          26000         |
+Tong tien:                                                         105500
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   194500
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD004
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 21/12/2022 luc: 22:15:0
+---------------------------HoaDon cua khach hang: KH004----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |             10      |         110000         |
+|      2    |              dau an  |              1      |          44000         |
+Tong tien:                                                         154000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                    46000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:2:58
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+|      2    |          keo cao su  |              1      |          11000         |
+Tong tien:                                                          21600
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   478400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:3:25
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              3      |          15900         |
+|      2    |              bo huc  |              4      |          72000         |
+Tong tien:                                                          87900
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   412100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:7:2
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+|      2    |              bo huc  |              2      |          36000         |
+Tong tien:                                                          46600
+Tien khach gui:                                                     50000
+So tien tra lai:                                                     3400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:7:25
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              3      |          15900         |
+|      2    |             thit ga  |              1      |         120000         |
+Tong tien:                                                         135900
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   364100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:12:55
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+|      2    |              bo huc  |              3      |          54000         |
+Tong tien:                                                          64600
+Tien khach gui:                                                    600000
+So tien tra lai:                                                   535400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:13:49
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              1      |           5300         |
+|      2    |          keo cao su  |              4      |          44000         |
+Tong tien:                                                          49300
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   450700
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:15:28
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              1      |         120000         |
+|      2    |            xuc xich  |              2      |          10600         |
+Tong tien:                                                         130600
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   369400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:15:55
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              4      |         480000         |
+|      2    |          keo cao su  |             10      |         110000         |
+Tong tien:                                                         590000
+Tien khach gui:                                                   4000000
+So tien tra lai:                                                  3410000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:30:10
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+|      2    |              bo huc  |              3      |          54000         |
+Tong tien:                                                          64600
+Tien khach gui:                                                    400000
+So tien tra lai:                                                   335400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:36:2
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+|      2    |          keo cao su  |              3      |          33000         |
+Tong tien:                                                          43600
+Tien khach gui:                                                     50000
+So tien tra lai:                                                     6400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:36:42
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              2      |         240000         |
+|      2    |            xuc xich  |              3      |          15900         |
+Tong tien:                                                         255900
+Tien khach gui:                                                   5000000
+So tien tra lai:                                                  4744100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:38:24
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              1      |         120000         |
+|      2    |            xuc xich  |              1      |           5300         |
+Tong tien:                                                         125300
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   374700
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:43:13
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              4      |          21200         |
+Tong tien:                                                          21200
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   478800
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:48:8
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+Tong tien:                                                          10600
+Tien khach gui:                                                    800000
+So tien tra lai:                                                   789400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:54:31
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              1      |          11000         |
+Tong tien:                                                          11000
+Tien khach gui:                                                     70000
+So tien tra lai:                                                    59000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD00`
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:56:12
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              1      |         120000         |
+Tong tien:                                                         120000
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   380000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:56:32
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+Tong tien:                                                          10600
+Tien khach gui:                                                    600000
+So tien tra lai:                                                   589400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 10:59:51
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+|      2    |          keo cao su  |              2      |          22000         |
+Tong tien:                                                          32600
+Tien khach gui:                                                     70000
+So tien tra lai:                                                    37400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:0:11
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              2      |         240000         |
+|      2    |            xuc xich  |              3      |          15900         |
+Tong tien:                                                         255900
+Tien khach gui:                                                    900000
+So tien tra lai:                                                   644100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:5:32
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+Tong tien:                                                          10600
+Tien khach gui:                                                     56000
+So tien tra lai:                                                    45400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:5:55
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              3      |          15900         |
+Tong tien:                                                          15900
+Tien khach gui:                                                     60000
+So tien tra lai:                                                    44100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:9:42
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              3      |          15900         |
+|      2    |          keo cao su  |              4      |          44000         |
+Tong tien:                                                          59900
+Tien khach gui:                                                   3000000
+So tien tra lai:                                                  2940100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:10:0
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              3      |          15900         |
+Tong tien:                                                          15900
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   484100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:13:25
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              4      |          21200         |
+Tong tien:                                                          21200
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   478800
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:21:14
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              3      |          15900         |
+|      2    |             thit ga  |              2      |         240000         |
+Tong tien:                                                         255900
+Tien khach gui:                                                   4000000
+So tien tra lai:                                                  3744100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:21:42
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              3      |          15900         |
+|      2    |             thit ga  |              5      |         600000         |
+Tong tien:                                                         615900
+Tien khach gui:                                                   4000000
+So tien tra lai:                                                  3384100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:27:47
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+Tong tien:                                                          10600
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   489400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: KH001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:28:22
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              1      |         120000         |
+|      2    |            xuc xich  |              2      |          10600         |
+Tong tien:                                                         130600
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   369400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:28:46
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+|      2    |             thit ga  |              2      |         240000         |
+Tong tien:                                                         250600
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   249400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:38:48
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              1      |         130000         |
+|      2    |              bo huc  |              1      |          18000         |
+Tong tien:                                                         148000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   152000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:39:35
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            thit lon  |              3      |         270000         |
+|      2    |             thit ga  |              4      |         480000         |
+|      3    |            nuoc mam  |              5      |         130000         |
+Tong tien:                                                         880000
+Tien khach gui:                                                   2000000
+So tien tra lai:                                                  1120000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:45:12
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            thit lon  |              1      |          90000         |
+|      2    |            sua chua  |              5      |          32500         |
+Tong tien:                                                         122500
+Tien khach gui:                                                    300000
+So tien tra lai:                                                   177500
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD003
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:45:49
+---------------------------HoaDon cua khach hang: KH003----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          nuoc tuong  |              2      |          54000         |
+|      2    |              dau an  |              3      |         132000         |
+|      3    |            nuoc mam  |              2      |          52000         |
+Tong tien:                                                         238000
+Tien khach gui:                                                    500000
+So tien tra lai:                                                   262000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD003
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 11:48:42
+---------------------------HoaDon cua khach hang: KH003----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |     nuoc ngot sting  |              2      |          21000         |
+|      2    |     ca hop 3 co gai  |              4      |          62000         |
+Tong tien:                                                          83000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                   117000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 12:6:10
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              1      |         130000         |
+|      2    |            nuoc mam  |              3      |          78000         |
+Tong tien:                                                         208000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                    92000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 18:22:56
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |              bo huc  |              3      |          54000         |
+|      2    |            nuoc mam  |              4      |         104000         |
+Tong tien:                                                         158000
+Tien khach gui:                                                    160000
+So tien tra lai:                                                     2000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 18:24:13
+---------------------------HoaDon cua khach hang: KH003----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              3      |         360000         |
+|      2    |             thit bo  |              2      |         260000         |
+Tong tien:                                                         620000
+Tien khach gui:                                                    500000
+So tien tra lai:                                                  -120000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 18:25:11
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              2      |         260000         |
+Tong tien:                                                         260000
+Tien khach gui:                                                    450000
+So tien tra lai:                                                   190000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 18:29:31
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+|      2    |          keo cao su  |              3      |          33000         |
+Tong tien:                                                          43600
+Tien khach gui:                                                     44000
+So tien tra lai:                                                      400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 18:44:39
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              4      |          21200         |
+|      2    |          nuoc tuong  |              1      |          27000         |
+Tong tien:                                                          48200
+Tien khach gui:                                                     60000
+So tien tra lai:                                                    11800
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 18:56:37
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            thit lon  |              1      |          90000         |
+|      2    |       banh bong lan  |              3      |         105000         |
+Tong tien:                                                         195000
+Tien khach gui:                                                    250000
+So tien tra lai:                                                    55000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD003
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 19:4:21
+---------------------------HoaDon cua khach hang: KH003----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |  nuoc ngot cocacola  |              5      |          52500         |
+|      2    |              bo huc  |              2      |          36000         |
+Tong tien:                                                          88500
+Tien khach gui:                                                    100000
+So tien tra lai:                                                    11500
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 19:26:33
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              1      |         130000         |
+Tong tien:                                                         130000
+Tien khach gui:                                                    150000
+So tien tra lai:                                                    20000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD011
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:14:36
+---------------------------HoaDon cua khach hang: KH011----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            thit lon  |              2      |         180000         |
+|      2    |            nuoc mam  |              5      |         130000         |
+Tong tien:                                                         310000
+Tien khach gui:                                                    350000
+So tien tra lai:                                                    40000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD003
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:15:5
+---------------------------HoaDon cua khach hang: KH003----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              5      |          26500         |
+|      2    |              bo huc  |              4      |          72000         |
+Tong tien:                                                          98500
+Tien khach gui:                                                    100000
+So tien tra lai:                                                     1500
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:25:58
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+Tong tien:                                                          10600
+Tien khach gui:                                                     20000
+So tien tra lai:                                                     9400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:26:29
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              5      |          55000         |
+|      2    |            xuc xich  |              4      |          21200         |
+Tong tien:                                                          76200
+Tien khach gui:                                                     80000
+So tien tra lai:                                                     3800
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:35:48
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+|      2    |          keo cao su  |              3      |          33000         |
+Tong tien:                                                          43600
+Tien khach gui:                                                     45000
+So tien tra lai:                                                     1400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:36:12
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              2      |         260000         |
+|      2    |            xuc xich  |              4      |          21200         |
+Tong tien:                                                         281200
+Tien khach gui:                                                    300000
+So tien tra lai:                                                    18800
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD012
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:44:46
+---------------------------HoaDon cua khach hang: KH012----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |       ca vien chien  |              3      |         102000         |
+|      2    |               duong  |              3      |          36000         |
+Tong tien:                                                         138000
+Tien khach gui:                                                    150000
+So tien tra lai:                                                    12000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:46:13
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |              bo huc  |              4      |          72000         |
+|      2    |                muoi  |              3      |          12000         |
+|      3    |          nuoc tuong  |              2      |          54000         |
+Tong tien:                                                         138000
+Tien khach gui:                                                    150000
+So tien tra lai:                                                    12000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD006
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:47:27
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |              dau an  |              2      |          88000         |
+|      2    |          keo cao su  |              5      |          55000         |
+|      3    |       banh bong lan  |              2      |          70000         |
+Tong tien:                                                         213000
+Tien khach gui:                                                    250000
+So tien tra lai:                                                    37000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:52:28
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              3      |          15900         |
+|      2    |             thit bo  |              2      |         260000         |
+Tong tien:                                                         275900
+Tien khach gui:                                                    300000
+So tien tra lai:                                                    24100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:52:52
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              2      |          22000         |
+|      2    |              bo huc  |              3      |          54000         |
+Tong tien:                                                          76000
+Tien khach gui:                                                     76000
+So tien tra lai:                                                        0
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:56:49
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            thit lon  |              2      |         180000         |
+|      2    |       banh bong lan  |              4      |         140000         |
+Tong tien:                                                         320000
+Tien khach gui:                                                    350000
+So tien tra lai:                                                    30000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD003
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:57:26
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |              bo huc  |              2      |          36000         |
+|      2    |     nuoc ngot sting  |              2      |          21000         |
+Tong tien:                                                          57000
+Tien khach gui:                                                     60000
+So tien tra lai:                                                     3000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 22:58:20
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |  nuoc ngot cocacola  |              3      |          31500         |
+|      2    |              dau an  |              2      |          88000         |
+Tong tien:                                                         119500
+Tien khach gui:                                                    120000
+So tien tra lai:                                                      500
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 23:1:2
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+Tong tien:                                                          10600
+Tien khach gui:                                                     12000
+So tien tra lai:                                                     1400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 23:1:19
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              3      |         390000         |
+Tong tien:                                                         390000
+Tien khach gui:                                                    400000
+So tien tra lai:                                                    10000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 23:4:46
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              2      |         260000         |
+Tong tien:                                                         260000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                    40000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 23:5:2
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+Tong tien:                                                          10600
+Tien khach gui:                                                     11000
+So tien tra lai:                                                      400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD003
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 23:5:18
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              4      |          21200         |
+Tong tien:                                                          21200
+Tien khach gui:                                                     22000
+So tien tra lai:                                                      800
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 23:43:31
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              2      |         240000         |
+|      2    |              bo huc  |              2      |          36000         |
+Tong tien:                                                         276000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                    24000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 23:44:9
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            nuoc mam  |              4      |         104000         |
+|      2    |              dau an  |              2      |          88000         |
+Tong tien:                                                         192000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                     8000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD003
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 23:44:52
+---------------------------HoaDon cua khach hang: KH003----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |       banh bong lan  |              4      |         140000         |
+|      2    |          keo cao su  |              3      |          33000         |
+Tong tien:                                                         173000
+Tien khach gui:                                                    200000
+So tien tra lai:                                                    27000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 23:51:28
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              2      |         260000         |
+Tong tien:                                                         260000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                    40000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 23:51:54
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              4      |          21200         |
+Tong tien:                                                          21200
+Tien khach gui:                                                     22000
+So tien tra lai:                                                      800
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD003
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 22/12/2022 luc: 23:52:18
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |          keo cao su  |              5      |          55000         |
+Tong tien:                                                          55000
+Tien khach gui:                                                    550000
+So tien tra lai:                                                   495000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 0:26:10
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+Tong tien:                                                          10600
+Tien khach gui:                                                     12000
+So tien tra lai:                                                     1400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 0:26:28
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              2      |         260000         |
+Tong tien:                                                         260000
+Tien khach gui:                                                    260000
+So tien tra lai:                                                        0
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD003
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 0:27:50
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              3      |          15900         |
+Tong tien:                                                          15900
+Tien khach gui:                                                     16000
+So tien tra lai:                                                      100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 0:54:52
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+Tong tien:                                                          10600
+Tien khach gui:                                                     12000
+So tien tra lai:                                                     1400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 0:56:29
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              2      |          10600         |
+Tong tien:                                                          10600
+Tien khach gui:                                                     11000
+So tien tra lai:                                                      400
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 1:2:39
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit bo  |              2      |         260000         |
+Tong tien:                                                         260000
+Tien khach gui:                                                    300000
+So tien tra lai:                                                    40000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 1:12:10
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              3      |          15900         |
+|      2    |          keo cao su  |              3      |          33000         |
+Tong tien:                                                          48900
+Tien khach gui:                                                     50000
+So tien tra lai:                                                     1100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD001
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 2:15:30
+---------------------------HoaDon cua khach hang: KH001----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              1      |           5300         |
+Tong tien:                                                           5300
+Tien khach gui:                                                      6000
+So tien tra lai:                                                      700
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD002
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 3:36:16
+---------------------------HoaDon cua khach hang: KH002----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |             thit ga  |              2      |         240000         |
+|      2    |            xuc xich  |              3      |          15900         |
+Tong tien:                                                         255900
+Tien khach gui:                                                    260000
+So tien tra lai:                                                     4100
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD003
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 3:37:37
+---------------------------HoaDon cua khach hang: KH003----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |             10      |          53000         |
+Tong tien:                                                          53000
+Tien khach gui:                                                     80000
+So tien tra lai:                                                    27000
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD004
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 3:39:11
+---------------------------HoaDon cua khach hang: KH004----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              5      |          26500         |
+|      2    |             thit ga  |              3      |         360000         |
+Tong tien:                                                         386500
+Tien khach gui:                                                    370000
+So tien tra lai:                                                   -16500
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD005
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 3:40:15
+---------------------------HoaDon cua khach hang: KH005----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              5      |          26500         |
+|      2    |             thit ga  |              3      |         360000         |
+Tong tien:                                                         386500
+Tien khach gui:                                                    390000
+So tien tra lai:                                                     3500
+------------------------------------------------------------------------------------------------------------------------------
+Ma hoa don: HD007
+CUA HANG TIEN LOI SINH VIEN                	 D/c: 75 Nguyen Luong Bang,
+                                                  Lien Chieu, TP Da Nang
+Xuat ngay: 23/12/2022 luc: 3:41:56
+---------------------------HoaDon cua khach hang: KH007----------------------------
+|    STT    |    Ten san pham      |       so luong      |        so tien         |
+|      1    |            xuc xich  |              7      |          37100         |
+|      2    |             thit ga  |              2      |         240000         |
+Tong tien:                                                         277100
+Tien khach gui:                                                    390000
+So tien tra lai:                                                   112900
+------------------------------------------------------------------------------------------------------------------------------

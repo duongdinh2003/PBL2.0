@@ -23,3 +23,4 @@ istream& operator >> (istream& in, KhachHang& a) {
 void KhachHang::show() {
 	cout << setw(6) << "Khach hang: " << this->id << endl;
 }
+

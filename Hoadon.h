@@ -6,18 +6,28 @@ using namespace std;
 
 class HoaDon :public KhachHang, public HangHoa {
 protected:
-	static int count;
+	string ID_hd;
 	long tongtien;
+	long chiphi1;
+	List <HangHoa> HD;
+	bool check;
 public:
 	HoaDon();
-	~HoaDon()
-	{
-
-	}
-	void Input(List<HangHoa>&, List<HangHoa>&);
-	void show(List <HangHoa>);
-	void ghiFile_LSBH(List<HangHoa>);
+	friend void SearchMKH(List<HoaDon>);
+	void Input(List<HangHoa>&);
+	void show_HD();
+	void show();
+	void ghiFile_LSBH();
 	long getTongTien();
+	friend void show_gianhap(List <HoaDon>&, long long);
+	friend void show_loinhuan(List <HoaDon>&);
+	friend void SearchMHD(List<HoaDon>);
+	int getNgay();
+	int getThang();
+	int getNam();
+	int getGio();
+	int getPhut();
+	int getGiay();
 };
 
 

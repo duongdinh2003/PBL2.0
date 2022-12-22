@@ -10,10 +10,6 @@ struct Node
 	Node(T data);
 	Node CreateNode(T);
 	Node();
-	T getData()
-	{
-		return data;
-	}
 };
 template <class T>
 class List {
@@ -24,6 +20,7 @@ private:
 	Node<T>* Tail;
 
 public:
+	void SetHead(Node<T> *);
 	List();
 	~List();
 	void InsertLast(T);
@@ -32,10 +29,14 @@ public:
 	void Input(const char*);
 	template <class T>
 	friend istream& operator >> (istream& in, Node<T>&);
-	friend class Hanghoa;
-	int LinearSearch(T);
 	Node<T>* GetHead();
 };
+
+template <class T>
+void List<T>::SetHead(Node<T> *a) {
+	*Head = *a;
+}
+
 
 template <class T>
 Node<T>::Node(T data)
@@ -105,8 +106,7 @@ T List<T>::doc_file_node(const char* file)
 
 template <class T>
 void List<T>::Show() {
-	Node<T>* a = NULL;
-	a = this->Head;
+	Node<T>* a = this->Head;
 	while (a != NULL) {
 		a->data.show();
 		a = a->Next;
@@ -136,19 +136,6 @@ istream& operator >> (istream& in, Node<T>& t)
 	return in;
 }
 
-template <class T>
-int List<T>::LinearSearch(T data) {
-	int temp = 0;
-	Node<T>* a = this->Head;
-	while (a != NULL) {
-		if (a->data == data) {
-			return temp;
-		}
-		temp++;
-		a = a->Next;
-	}
-	return -1;
-}
 
 template <class T>
 Node<T>* List<T>::GetHead()

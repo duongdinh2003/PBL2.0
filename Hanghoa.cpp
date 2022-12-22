@@ -165,7 +165,6 @@ void HangHoa::docFile(List<HangHoa>& l)
 	}
 }*/
 #include "Hanghoa.h"
-int HangHoa::a = 1;
 /*
 void HangHoa::Input(List<HangHoa>& a,List<HangHoa> &b) {
 	cin.ignore();
@@ -187,6 +186,11 @@ void HangHoa::Input(List<HangHoa>& a,List<HangHoa> &b) {
 }
 */
 
+int HangHoa::a = 1;
+void HangHoa::reset() {
+	a = 1;
+}
+
 void HangHoa::Setsoluong(int k) {
 	this->soluong = k;
 }
@@ -201,6 +205,16 @@ long HangHoa::Getgiaban() {
 
 void HangHoa::Setgiaban(long k) {
 	this->giaban = k;
+}
+
+long HangHoa::Getgianhap()
+{
+	return gianhap;
+}
+
+void HangHoa::Setgianhap(long k)
+{
+	this->gianhap = k;
 }
 
 string HangHoa::Gettensp() {
@@ -261,14 +275,22 @@ long Getgiaban1(List<HangHoa> a, string tensp) {
 
 
 HangHoa::HangHoa() {
-	this->a = 0;
 	this->tensp = " ";
 	this->soluong = 0;
+	this->gianhap = 0;
 	this->giaban = 0;
 }
 
-HangHoa::HangHoa(string tensp, int soluong, long giaban) {
-	this->a = 0;
+HangHoa::HangHoa(string tensp, int soluong, long gianhap, long giaban)
+{
+	this->tensp = tensp;
+	this->soluong = soluong;
+	this->gianhap = gianhap;
+	this->giaban = giaban;
+}
+
+HangHoa::HangHoa(string tensp, int soluong, long giaban)
+{
 	this->tensp = tensp;
 	this->soluong = soluong;
 	this->giaban = giaban;
@@ -279,6 +301,8 @@ istream& operator >> (istream& in, HangHoa& a) {
 	getline(in, a.tensp);
 	cout << "nhap so luong: ";
 	in >> a.soluong;
+	cout << "nhap gia nhap hang: ";
+	in >> a.gianhap;
 	cout << "nhap gia ban: ";
 	in >> a.giaban;
 	cin.ignore();
@@ -287,9 +311,26 @@ istream& operator >> (istream& in, HangHoa& a) {
 
 void HangHoa::show()
 {
-	cout << "\t\t\t\t\t\t\t|  " << setw(5) << ++a << "    |" << setw(20)  << tensp << right << setw(3) << "|" << setw(15) << soluong << right << setw(7) << "|" << setw(15) << fixed << setprecision(5) << giaban << setw(10) << "  |" << endl;
+	cout << "\t\t\t\t\t\t\t|  " << setw(5) << a++ << "    |" << setw(20) << tensp << right << setw(3) << "|" << setw(15) << soluong << right << setw(7) << "|" << setw(15) << gianhap << setw(10) << "  |" << setw(15) << giaban << setw(10) << "  |" << endl;
+	cout << setw(10) << "\t\t\t\t\t\t\t____________________________________________________________________________________________________________" << endl;
+}
+
+void HangHoa::show_ungianhap() {
+	cout << "\t\t\t\t\t\t\t|  " << setw(5) << a++ << "    |" << setw(20) << tensp << right << setw(3) << "|" << setw(15) << soluong << right << setw(7) << "|" << setw(15) << giaban << setw(10) << "  |" << endl;
 	cout << setw(10) << "\t\t\t\t\t\t\t___________________________________________________________________________________" << endl;
 }
+long Getgianhap1(List<HangHoa> a, string tensp) {
+	Node <HangHoa>* b = a.GetHead();
+	while (b != NULL) {
+		if (b->data.tensp == tensp) {
+			return b->data.gianhap;
+		}
+		b = b->Next;
+	}
+	return -1;
+}
+
+
 
 bool HangHoa::checkFile(string name)
 {
@@ -297,78 +338,91 @@ bool HangHoa::checkFile(string name)
 	return isf.good();
 }
 
-void HangHoa::ghiFile(List<HangHoa> l)
+void HangHoa::ghiFile(List<HangHoa> l, string filename)
 {
-	ofstream output("Khohang.txt", ios::out);
+
+	ofstream output(filename, ios::out | ios::trunc);
 	Node<HangHoa>* a = NULL;
 	a = l.GetHead();
 	while (a != NULL)
 	{
-		output << a->getData().tensp << " / " << a->getData().soluong << " / " << a->getData().giaban << " ///" << endl;
+		output << a->data.tensp << " / " << a->data.soluong << " / " << a->data.gianhap << " / " << a->data.giaban << " ///" << endl;
 		a = a->Next;
 	}
 	output.close();
 }
-void HangHoa::docFile(List<HangHoa>& l)
+
+bool is_empty(ifstream& pFile)
 {
-	string str[200];
-	ifstream input("Khohang.txt");
-	string s;
-	int n = 0;
-	int count = 0;
-	while (input >> s)
-	{
-		if (count != 3) {
+	return pFile.peek() == ifstream::traits_type::eof();
+}
 
-			++count;
-		}
-		else {
+void HangHoa::docFile(List<HangHoa>& l, string filename)
+{
+	string str[500];
+	ifstream input(filename);
+//	if (input.peek() == ifstream::traits_type::eof()) cout << "FILE RONG!" << endl;
+		string s;
+		int n = 0;
+		int count = 0;
+		while (input >> s)
+		{
+			if (count != 4) {
 
-			count = 0;
-		}
-		str[n] = s;
-		n++;
-	}
-	input.close();
-	int temp = 0;
-	string stt, ten;
-	int sl;
-	long gia;
-	for (int i = 0; i < n; i++)
-	{
-		if (str[i] == "/" && temp != 2)
-		{
-			temp++;
-		}
-		else if (temp == 2)
-		{
-			gia = stol(str[i]);
-			i++;
-			temp = 0;
-			HangHoa hangHoa(ten, sl, gia);
-			l.InsertLast(hangHoa);
-			if (str[i] == "///")
-			{
-				ten = "";
-				sl = 0;
-				gia = 0;
+				++count;
 			}
-			continue;
+			else {
+
+				count = 0;
+			}
+			str[n] = s;
+			n++;
 		}
-		else if (str[i] != "/" && temp == 0)
+		input.close();
+		int temp = 0;
+		string stt, ten;
+		int sl;
+		long gian, giab;
+		for (int i = 0; i < n; i++)
 		{
-			while (str[i] != "/")
+			if (str[i] == "/" && temp != 3)
 			{
-				ten = ten + str[i] + " ";
+				temp++;
+			}
+			else if (temp == 3)
+			{
+				giab = stol(str[i]);
 				i++;
+				temp = 0;
+				HangHoa hangHoa(ten, sl, gian, giab);
+				l.InsertLast(hangHoa);
+				if (str[i] == "///")
+				{
+					ten = "";
+					sl = 0;
+					gian = 0;
+					giab = 0;
+				}
+				continue;
 			}
-			ten.pop_back();
-			i--;
-		}
+			else if (str[i] != "/" && temp == 0)
+			{
+				while (str[i] != "/")
+				{
+					ten = ten + str[i] + " ";
+					i++;
+				}
+				ten.pop_back();
+				i--;
+			}
 
-		else if (str[i] != "/" && temp == 1)
-		{
-			sl = stoi(str[i]);
+			else if (str[i] != "/" && temp == 1)
+			{
+				sl = stoi(str[i]);
+			}
+			else if (str[i] != "/" && temp == 2)
+			{
+				gian = stol(str[i]);
+			}
 		}
-	}
 }
