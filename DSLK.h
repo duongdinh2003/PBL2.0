@@ -21,6 +21,7 @@ private:
 
 public:
 	void SetHead(Node<T> *);
+	void SetTail(Node <T>*);
 	List();
 	~List();
 	void InsertLast(T);
@@ -35,6 +36,11 @@ public:
 template <class T>
 void List<T>::SetHead(Node<T> *a) {
 	*Head = *a;
+}
+
+template <class T> 
+void List <T> ::SetTail(Node <T>* a) {
+	*Tail = *a;
 }
 
 

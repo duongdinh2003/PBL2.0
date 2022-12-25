@@ -17,7 +17,6 @@ public:
 	HangHoa(string, int, long, long);
 	HangHoa(string, int, long);
 	void reset();
-	//void Input(List<HangHoa>&,List<HangHoa>&);
 	void show_ungianhap();
 	void show();
 	int Getsoluong();

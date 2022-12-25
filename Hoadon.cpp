@@ -1,88 +1,3 @@
-/*#include "HoaDon.h"
-#include <ctime>
-#define _CRT_SECURE_NO_WARNINGS
-
-int HoaDon::count = 1;
-
-
-HoaDon::HoaDon() {
-	this->tongtien = 0;
-}
-
-void HoaDon::Input(List<HangHoa>& a, List <HangHoa>& b) {
-	cout << "nhap id khach hang: ";
-	cin >> this->id;
-	cin.ignore();
-	cout << "nhap so tien khach gui: ";
-	cin >> this->tiengui;
-	cout << "Nhap thoi gian giao dich: " << endl;
-	SetUpDate();
-	bool e = 1;
-	while (e == 1) {
-		cin.ignore();
-		cout << "nhap ten san pham muon mua: ";
-		getline(cin, this->tensp);
-		if (LinearSearch(a, tensp) != -1) {
-			cout << "nhap so luong: ";
-			cin >> this->soluong;
-			cin.ignore();
-			ChangeSoluong(a, this->tensp, this->soluong);
-			this->giaban = this->soluong * Getgiaban(a, tensp);
-			tongtien += this->giaban;
-			HangHoa temp(this->tensp, this->soluong, this->giaban);
-			b.InsertLast(temp);
-			cout << "ban co muon tiep tuc mua khong: 1(co),0(khong): ";
-			cin >> e;
-		}
-		else cout << "eu co hang nha ma" << endl;
-	}
-}
-
-
-void HoaDon::show(List <HangHoa> b)
-{
-//	time_t now = time(0);
-//	tm* tg = localtime(&now);
-	Node <HangHoa>* c = b.GetHead();
-	cout << "SIEU THI BINH DUONG                \t D/c: Doc la Binh Duong" << endl;
-//	cout << "Xuat ngay: " << tg->tm_mday << "/" << 1 + tg->tm_mon << "/" << 1900 + tg->tm_year << " luc: " << tg->tm_hour << ":" << tg->tm_min << ":" << tg->tm_sec << endl;
-	cout << "Xuat ngay: " << this->ngay;
-	cout << " luc: " << this->thoigian << endl;
-	cout << "-------------------HoaDon cua khach hang: " << this->id << "----------------------" << endl;
-	while (c != NULL) {
-		c->data.show();
-		c = c->Next;
-	}
-	cout << "-------------------------------------------------------------------------" << endl;
-	cout << "Tong tien: " << right << setw(37) << this->tongtien << endl;
-	cout << "Tien khach gui: " << right << setw(32) << this->tiengui << endl;
-	cout << "So tien tra lai: " << right << setw(31) << tiengui - tongtien << endl;
-}
-void HoaDon::ghiFile_LSBH(List<HangHoa> l)
-{
-	ofstream infile("LichSuBanHang.txt", ios::app);
-	Node<HangHoa>* b = NULL;
-	b = l.GetHead();
-	if (b != NULL)
-	{
-		infile << "Ma hoa don: " << ++(this->count) << endl;
-		infile << "SIEU THI BINH DUONG                \t D/c: Doc la Binh Duong" << endl;
-	//	infile << "Xuat ngay: " << tg->tm_mday << "/" << 1 + tg->tm_mon << "/" << 1900 + tg->tm_year << " luc: " << tg->tm_hour << ":" << tg->tm_min << ":" << tg->tm_sec << endl;
-		infile << "Xuat ngay: " << this->ngay;
-		infile << " luc: " << this->thoigian << endl;
-		infile << "-------------------HoaDon cua khach hang: " << this->id << "----------------------" << endl;
-		while (b != NULL)
-		{
-			infile << b->data.a << ": " << setw(15) << b->data.tensp << right << setw(15) << b->data.soluong << right << setw(15) << b->data.giaban << endl;
-			b = b->Next;
-		}
-		infile << "Tong tien: " << right << setw(37) << this->tongtien << endl;
-		infile << "Tien khach gui: " << right << setw(32) << this->tiengui << endl;
-		infile << "So tien tra lai: " << right << setw(31) << tiengui - tongtien << endl;
-		infile << "------------------------------------------------------------------------------------------" << endl;
-	}
-	infile.close();
-}*/
 #define _CRT_SECURE_NO_WARNINGS
 #include "Hoadon.h"
 
@@ -103,7 +18,7 @@ void HoaDon::Input(List<HangHoa>& a) {
 	cin.ignore();
 	cout << "Nhap id khach hang (VD: KH____): ";
 	cin >> this->id;
-	bool e = 1;
+	int e = 1;
 label:	while (e == 1) {
 	cin.ignore();
 	cout << "Nhap ten san pham muon mua: ";
@@ -180,12 +95,10 @@ label5:	while (choice == 1) {
 		if (choice == 0) {
 			Node <HangHoa>* c = this->HD.GetHead();
 			cout << "\t\t\t\t\t\t\t---------------------------HoaDon cua khach hang: " << this->id << "----------------------------" << endl;
-		//	cout << "STT" << setw(16) << "Ten san pham" << right << setw(15) << "so luong" << right << setw(15) << "so tien" << endl;
 			cout << "\t\t\t\t\t\t\t|  " << setw(5) << "  STT    |" << setw(14) << "    Ten san pham" << right << setw(7) << "|" << setw(15) << "so luong" << right << setw(7) << "|" << setw(15) << "so tien" << setw(10) << "  |" << endl;
 			cout << "\t\t\t\t\t\t\t___________________________________________________________________________________" << endl;
 			int dem = 0;
 			while (c != NULL) {
-			//	c->data.show();
 				cout << "\t\t\t\t\t\t\t|  " << setw(5) << ++dem << "    |" << setw(20) << c->data.Gettensp() << right << setw(3) << "|" << setw(15) << c->data.Getsoluong() << right << setw(7) << "  |" << setw(15) << c->data.Getgiaban() << setw(10) << "  |" << endl;
 				cout << setw(10) << "\t\t\t\t\t\t\t___________________________________________________________________________________" << endl;
 				c = c->Next;
@@ -228,7 +141,6 @@ label5:	while (choice == 1) {
 							chiphi1 -= d->data.Getgianhap();
 							Node <HangHoa>* p = d->Next;
 							Node <HangHoa>* temp = d;
-							
 							p->Pre = NULL;
 							d = p;
 							HD.SetHead(d);
@@ -305,7 +217,6 @@ void show_loinhuan(List <HoaDon>& a) {
 					Node <HangHoa>* temp = j;
 					p->Next = NULL;
 					j = p;
-
 				}
 				else {
 					Node <HangHoa>* p = j->Pre;
@@ -321,9 +232,7 @@ void show_loinhuan(List <HoaDon>& a) {
 
 
 	Node <HangHoa>* hh2 = temp.GetHead();
-	cout << setw(10) << "\n\n\t\t\t\t\t\t\t\t\t\t-----------------------------LOI NHUAN TREN TUNG SAN PHAM-------------------------------" << endl;
-	//	cout << setw(10) << "\n\n\t\t\t\t\t\t\t\t\t\t\tDANH SACH CAC MAT HANG CO SAN TAI CUA HANG" << endl;
-	//	cout << "STT" << setw(16) << "Ten san pham" << right << setw(15) << "so luong" << right << setw(15) << "gia nhap" << right << setw(15) << "gia ban" << endl;
+	cout << setw(10) << "\n\n\t\t\t\t\t\t\t\t-----------------------------LOI NHUAN TREN TUNG SAN PHAM-------------------------------" << endl;
 	cout << setw(10) << "\t\t\t\t\t\t\t____________________________________________________________________________________________________________" << endl;
 	cout << "\t\t\t\t\t\t\t|  " << setw(5) << "  STT    |" << setw(14) << "    Ten san pham" << right << setw(7) << "|" << setw(15) << "So luong" << right << setw(7) << "|" << setw(15) << "Gia nhap" << setw(10) << "  |" << setw(15) << "Gia ban" << setw(10) << "  |" << endl;
 	cout << setw(10) << "\t\t\t\t\t\t\t____________________________________________________________________________________________________________" << endl;
@@ -334,10 +243,10 @@ void show_loinhuan(List <HoaDon>& a) {
 		hh2 = hh2->Next;
 	}
 
-	cout << "\t\t\t\t\t\t\t------------------------------------------------------------------------------------------" << endl;
-	cout << "\t\t\t\t\t\t\tDoanh thu: " << right << setw(62) << doanhthu << endl;
-	cout << "\t\t\t\t\t\t\tChi phi nhap hang: " << right << setw(54) << chiphi << endl;
-	cout << "\t\t\t\t\t\t\tLoi nhuan: " << right << setw(62) << doanhthu - chiphi << endl;
+	cout << "\t\t\t\t\t\t\t------------------------------------------------------------------------------------------------------------" << endl;
+	cout << "\t\t\t\t\t\t\tDoanh thu: " << right << setw(87) << doanhthu << endl;
+	cout << "\t\t\t\t\t\t\tChi phi nhap hang: " << right << setw(79) << chiphi << endl;
+	cout << "\t\t\t\t\t\t\tLoi nhuan: " << right << setw(87) << doanhthu - chiphi << endl;
 }
 
 
@@ -396,9 +305,7 @@ void show_gianhap(List <HoaDon>& a,long long chiphi) {
 
 
 	Node <HangHoa>* hh2 = temp.GetHead();
-	cout << setw(10) << "\n\n\t\t\t\t\t\t\t\t\t\t---------------------DOANH THU CUA QUAN-----------------------" << endl;
-//	cout << setw(10) << "\n\n\t\t\t\t\t\t\t\t\t\t\tDANH SACH CAC MAT HANG CO SAN TAI CUA HANG" << endl;
-//	cout << "STT" << setw(16) << "Ten san pham" << right << setw(15) << "so luong" << right << setw(15) << "gia nhap" << right << setw(15) << "gia ban" << endl;
+	cout << setw(10) << "\n\n\t\t\t\t\t\t\t\t-----------------------------------DOANH THU CUA QUAN-----------------------------------" << endl;
 	cout << setw(10) << "\t\t\t\t\t\t\t____________________________________________________________________________________________________________" << endl;
 	cout << "\t\t\t\t\t\t\t|  " << setw(5) << "  STT    |" << setw(14) << "    Ten san pham" << right << setw(7) << "|" << setw(15) << "So luong" << right << setw(7) << "|" << setw(15) << "Gia nhap" << setw(10) << "  |" << setw(15) << "Gia ban" << setw(10) << "  |" << endl;
 	cout << setw(10) << "\t\t\t\t\t\t\t____________________________________________________________________________________________________________" << endl;
@@ -408,10 +315,10 @@ void show_gianhap(List <HoaDon>& a,long long chiphi) {
 		hh2 = hh2->Next;
 	}
 
-	cout << "\t\t\t\t\t\t\t------------------------------------------------------------------------------------------" << endl;
-	cout << "\t\t\t\t\t\t\tDoanh thu: " << right << setw(62) << doanhthu << endl;
-	cout << "\t\t\t\t\t\t\tChi phi nhap hang: " << right << setw(54) << chiphi << endl;
-	cout << "\t\t\t\t\t\t\tLoi nhuan: " << right << setw(62) << doanhthu - chiphi << endl;
+	cout << "\t\t\t\t\t\t\t------------------------------------------------------------------------------------------------------------" << endl;
+	cout << "\t\t\t\t\t\t\tDoanh thu: " << right << setw(87) << doanhthu << endl;
+	cout << "\t\t\t\t\t\t\tChi phi nhap hang: " << right << setw(79) << chiphi << endl;
+	cout << "\t\t\t\t\t\t\tLoi nhuan: " << right << setw(87) << doanhthu - chiphi << endl;
 }
 
 
@@ -488,11 +395,12 @@ void SearchMKH(List <HoaDon> a) {
 			b->data.show();
 			count++;
 			cout << endl;
-			if (b->Next == NULL) return;
+			if (b == NULL) 
+				return;
 		}
 		 b = b->Next;
 	}
-	if (count == 0) cout << "Khong tim thay ma khach hang nay!" << endl;
+	if (count == 0) cout << "\t\t\t\t\t\t\tKHONG TIM THAY MA KHACH HANG NAY!" << endl;
 }
 
 void SearchMHD(List <HoaDon> a)
@@ -511,7 +419,7 @@ void SearchMHD(List <HoaDon> a)
 		}
 		b = b->Next;
 	}
-	cout << "Khong tim thay ma hoa don nay!" << endl;
+	cout << "\t\t\t\t\t\t\tKHONG TIM THAY MA HOA DON NAY!" << endl;
 }
 
 void HoaDon::show()
@@ -526,7 +434,6 @@ void HoaDon::show()
 	cout << "\t\t\t\t\t\t\t|  " << setw(5) << "  STT    |" << setw(14) << "    Ten san pham" << right << setw(7) << "|" << setw(15) << "so luong" << right << setw(7) << "|" << setw(15) << "so tien" << setw(10) << "  |" << endl;
 	cout << "\t\t\t\t\t\t\t___________________________________________________________________________________" << endl;
 	while (c != NULL) {
-	//	c->data.show();
 		cout << "\t\t\t\t\t\t\t|  " << setw(5) << ++d << "    |" << setw(20) << c->data.Gettensp() << right << setw(3) << "|" << setw(15) << c->data.Getsoluong() << right << setw(7) << "|" << setw(15) << c->data.Getgiaban() << setw(10) << "  |" << endl;
 		cout << setw(10) << "\t\t\t\t\t\t\t___________________________________________________________________________________" << endl;
 		c = c->Next;
@@ -535,6 +442,7 @@ void HoaDon::show()
 	cout << "\t\t\t\t\t\t\tTong tien: " << right << setw(62) << this->tongtien << endl;
 	cout << "\t\t\t\t\t\t\tTien khach gui: " << right << setw(57) << this->tiengui << endl;
 	cout << "\t\t\t\t\t\t\tSo tien tra lai: " << right << setw(56) << (tiengui - tongtien) << endl;
+	cout << "\t\t\t\t\t\t-----------------------------------------------------------------------------------------------------" << endl << endl << endl;
 	delete[] c;
 }
 

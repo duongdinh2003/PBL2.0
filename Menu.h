@@ -18,7 +18,7 @@ void Begin() {
 	cout << "\t\t\t\t\t\t|\t                     NGUYEN NHAT MINH      LSH: 21TCLC_DT3  |" << endl;
 	cout << "\t\t\t\t\t\t|___________________________________________________________________|" << endl;
 }
-				//   "QUAN LY KHO HANG HOA                            "
+		
 str luachon[6] = { "QUAN LY DANH SACH HANG HOA                      ", "NHAP HANG TU KHO VE CUA HANG                    ", "XUAT HOA DON                                    ", "QUAN LY HOA DON                                 ", "QUAN LY THU CHI CUA HANG                        ", "KET THUC CHUONG TRINH                           " };
 str lc1[4] = { "DANH SACH HOA DON DA XUAT  ","TIM KIEM THEO MA HOA DON   ","TIM KIEM THEO MA KHACH HANG","QUAY VE                    " };
 str lc2[4] = { "CHI PHI NHAP HANG                      ","DOANH THU CUA HANG                     ","LOI NHUAN TREN SAN PHAM BAN RA         ","QUAY VE                                " };
@@ -65,7 +65,6 @@ int menu(str luachon[6], int n)
 	int pos[5] = { 0,0,0,0,0 };
 	List<HoaDon> lhd;
 	List<HangHoa> khohang;
-//	HangHoa x;
 	int tt = 0, tt1 = 0, tt2 = 0;
 	int m = 1, m1 = 1, m2 = 1;
 	int* mau = new int[n];
@@ -76,7 +75,7 @@ int menu(str luachon[6], int n)
 	tieude = MAUCHU;
 	while (1)
 	{
-		clrscr();
+		system("cls");
 		Begin();
 		TextColor(tieude);
 		cout << "\t\t\t\t\t\t\t";
@@ -126,6 +125,7 @@ int menu(str luachon[6], int n)
 				{
 				case 1:
 				{
+					system("cls");
 					if (pos[1] == 0) {
 						cout << "\t\t\t\t\t\t\tban chua nhap buoc so 2 !!!" << endl;
 						system("pause");
@@ -133,7 +133,6 @@ int menu(str luachon[6], int n)
 					}
 					pos[0] = 1;
 					List<HangHoa> lhh;
-					clrscr();
 					HangHoa x;
 					ifstream input(filename);
 					if (input.peek() == ifstream::traits_type::eof()) { 
@@ -143,7 +142,7 @@ int menu(str luachon[6], int n)
 							system("pause");
 							goto again;
 						}
-					}//	if (x.checkFile(filename))
+					}
 					else
 					{
 						x.docFile(lhh, filename);
@@ -168,10 +167,10 @@ int menu(str luachon[6], int n)
 				case 2:
 				{
 					pos[1] = 1;
-					clrscr();
+					system("cls");
 					List<HangHoa> l;
 					danhsach_KhoHang();
-				//	NhapFile(filename);
+				
 			dc:		filename = NhapFile(filename);
 					ifstream isf(filename);
 					if (!isf.good()) {
@@ -194,11 +193,10 @@ int menu(str luachon[6], int n)
 					List<HangHoa> lhh;
 					HoaDon hd;
 					HangHoa x;
-					clrscr();
+					system("cls");
 					x.docFile(lhh, filename);
 					hd.Input(lhh);
 					hd.show_HD();
-				//	lhh.Show();
 					x.ghiFile(lhh, filename);
 					hd.ghiFile_LSBH();
 					lhd.InsertLast(hd);
@@ -213,20 +211,15 @@ int menu(str luachon[6], int n)
 						system("pause");
 						goto again;
 					}
-					clrscr();
+					system("cls");
 					int* mau1 = new int[4];
-				//	int tieude;
 					for (int i = 0; i < 4; i++)
 						mau1[i] = MAUCHU;
 					mau1[0] = MAUNEN;
 					while (1)
 					{
-						clrscr();
-						//	TextColor(tieude);
+						system("cls");
 						cout << endl;
-						//	cout << "\t\t\t\t\t\t\t";
-						//	TextColor(tieude);
-						//	cout << "-----------------------MENU------------------------" << endl;
 						for (int i = 0; i < 4; i++)
 						{
 							TextColor(mau1[i]);
@@ -271,7 +264,7 @@ int menu(str luachon[6], int n)
 								{
 								case 1:
 								{
-									clrscr();							
+									system("cls");							
 									lhd.Show();
 									cout << endl;
 									system("pause");
@@ -279,16 +272,15 @@ int menu(str luachon[6], int n)
 								}
 								case 2:
 								{
-									clrscr();
+									system("cls");
 									SearchMHD(lhd);
 									system("pause");
 									goto again1;
 								}
 								case 3:
 								{
-									clrscr();
+									system("cls");
 									SearchMKH(lhd);
-								//	cout << test << endl;
 									system("pause");
 									goto again1;
 								}
@@ -314,19 +306,15 @@ int menu(str luachon[6], int n)
 						system("pause");
 						goto again;
 					}
-					clrscr();
+					system("cls");
 					int* mau2 = new int[4];
 					for (int i = 0; i < 4; i++)
 						mau2[i] = MAUCHU;
 					mau2[0] = MAUNEN;
 					while (1)
 					{
-						clrscr();
-						//	TextColor(tieude);
+						system("cls");
 						cout << endl;
-						//	cout << "\t\t\t\t\t\t\t";
-						//	TextColor(tieude);
-						//	cout << "-----------------------MENU------------------------" << endl;
 						for (int i = 0; i < 4; i++)
 						{
 							TextColor(mau2[i]);
@@ -371,14 +359,14 @@ int menu(str luachon[6], int n)
 								{
 								case 1:
 								{
-									clrscr();
+									system("cls");
 									cout << "\t\t\t\t\t\t\tChi phi nhap kho la : " << chiphinhap << endl;
 									system("pause");
 									goto again2;
 								}
 								case 2:
 								{
-									clrscr();
+									system("cls");
 									List<HangHoa> lhh;
 									HangHoa x;
 									x.docFile(lhh, filename);
@@ -389,7 +377,7 @@ int menu(str luachon[6], int n)
 								}
 								case 3:
 								{
-									clrscr();
+									system("cls");
 									List<HangHoa> lhh;
 									HangHoa x;
 									x.docFile(lhh, filename);
